@@ -21,7 +21,7 @@ Multi-Product_classifier/
 ├── car_classifier/
 │ ├── infer_car.py # Inference logic for car classification
 │ └── car_models_image_classifier/
-│ └── checkpoint_37500/
+│ └── checkpoint-37500/
 ├── fashion_classifier/
 │ ├── infer_fashion.py
 │ └── fashion_model/
