@@ -1,0 +1,23 @@
+# Ignore folders
+env/
+Data/
+
+# Ignore file types globally
+*.json
+*.pt
+*.pkl
+*.bin
+*.pth
+*.safetensors
+*.csv
+*.pyc
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.json
+*.pth
+*.
+
+
+
